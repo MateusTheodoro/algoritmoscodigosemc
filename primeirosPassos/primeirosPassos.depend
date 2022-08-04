@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659655764 source:/home/mateus/Documentos/GitHub/algoritmoscodigosemc/primeirosPassos/main.c
+	<stdio.h>
+	<stdlib.h>
+
