@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659662340 source:/home/mateus/Documentos/GitHub/algoritmoscodigosemc/calcularMedia/main.c
+	<stdio.h>
+	<stdlib.h>
+
