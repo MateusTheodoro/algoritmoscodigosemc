@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660256312 source:/home/mateus/Documentos/GitHub/algoritmoscodigosemc/calcularInss/main.c
+	<stdio.h>
+	<stdlib.h>
+
