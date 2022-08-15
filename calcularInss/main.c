@@ -8,7 +8,7 @@ int main()
     printf("Digite o salario: ");
     scanf("%f", &salario);
 
-    if (salario < 1693.72)
+    if (salario <= 1693.72)
     {
         inss = salario * 0.08;
         sal_liquido = salario - inss;
