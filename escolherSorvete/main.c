@@ -9,10 +9,26 @@ int main(int argc, char *argv[]) {
 	
 	do {
 		printf(" -- Escolha o sabor do sorvete -- \n");
-		printf("\t\t...(1)Flocos");
-		printf("\t\t...(2)Morango");
-		printf("\t\t...(3)Leite condensado");
+		printf("\t...(1)Flocos\n");
+		printf("\t...(2)Morango\n");
+		printf("\t...(3)Leite condensado\n");
+		
+		scanf("%d", &i);
+	} while (i<1 || i>3);
+	
+	switch (i) {
+		case 1:
+			printf("\nVoce escolheu Flocos\n\n");
+			break;
+		case 2:
+			printf("\nVoce escolheu Morango\n\n");
+			break;
+		case 3:
+			printf("\nVoce escolheu Leite condensado\n\n");
+			break;
+		
 	}
+
 	
 	
 	return 0;
