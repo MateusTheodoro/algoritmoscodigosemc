@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660682121 source:/home/mateus/Documentos/GitHub/algoritmoscodigosemc/contagemUsandoFor/main.c
+	<stdio.h>
+	<stdlib.h>
+
