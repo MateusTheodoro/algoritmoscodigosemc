@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660853526 source:/home/mateus/Documentos/GitHub/algoritmoscodigosemc/gerarRandomicoComPonteiro/main.c
+	<stdio.h>
+	<stdlib.h>
+
