@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660953514 source:/home/mateus/Documentos/GitHub/algoritmoscodigosemc/funcaoChamandoFuncao/main.c
+	<stdio.h>
+	<stdlib.h>
+
