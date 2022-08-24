@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661373234 source:/home/mateus/Documentos/GitHub/algoritmoscodigosemc/passandoPonteirosParaFuncoes/main.c
+	<stdio.h>
+	<stdlib.h>
+
