@@ -1,14 +1,11 @@
 #include <stdio.h>
-void fun(int a)
-{
-    printf("Valor de a é %d\n", a);
-}
-
 
 int main() {
 
-    void (*fun_ptr)(int) = &fun;
-
-    (*fun_ptr)(10);
+    int x=8, *p1, *p2;
+    p1 = &x;
+    p2 = p1;
+    printf("%d %d\n", p1, *p1);
+    printf("%d %d\n", p2, *p2);
     return 0;
 }
